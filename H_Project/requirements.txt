@@ -1,7 +1,0 @@
-matplotlib
-pandas
-plotly
-GeoJSON
-Mapbox
-seaborn
-numpy
